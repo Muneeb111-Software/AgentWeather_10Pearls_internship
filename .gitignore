@@ -7,3 +7,4 @@ __pycache__/
 .streamlit/secrets.toml
 data/raw/
 data/processed/
+.venv_py314_backup/
